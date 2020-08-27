@@ -1,0 +1,11 @@
+.cart-btn{
+    width: 150px;
+    height: 30px;
+    background-color: goldenrod;
+    border-radius: 5px;
+
+}
+.cart{
+    position: fixed;
+    left: 82%;
+}

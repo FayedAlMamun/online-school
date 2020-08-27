@@ -1,0 +1,34 @@
+.header img{
+    height: 150px;
+}
+.header nav{
+    background-color: black;
+    line-height: 40px;
+    font-size: 20px;
+}
+nav a{
+    text-decoration: none;
+    color: white;
+    margin-right: 20px;
+    padding: 5px;
+}
+nav a:hover{
+    background-color: gray;
+    text-decoration: none;
+    color:white;
+}
+.search-box input{
+    width: 80%;
+    height: 30px;
+    border-radius: 5px;
+}
+.search-box button{
+    background-color: burlywood;
+    line-height: 35px;
+    margin-left: 5px;
+    border-radius: 5px;
+}
+.search-box{
+    background-color: gray;
+    line-height: 55px;
+}
